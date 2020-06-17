@@ -1,0 +1,11 @@
+{
+    "name": "henrikthesing/slides-master",
+    "description": "Masterslides for talks",
+    "authors": [
+        {
+            "name": "Henrik Thesing",
+            "email": "mail@henrikthesing.de"
+        }
+    ],
+    "require": {}
+}
